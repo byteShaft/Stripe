@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Stripe Demo</string>
+    <string name="com.stripe.publishable_key" translatable="false">pk_test_iCmwbBazO7jthyiydaMjcbO9</string>
+
+</resources>
